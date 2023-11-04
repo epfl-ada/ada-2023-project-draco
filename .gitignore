@@ -1,3 +1,5 @@
+Data/ethnicities_data.tsv
+Data/ethnicities_without_clusters.tsv
 Data/MovieSummaries/character.metadata.tsv
 Data/MovieSummaries/movie.metadata.tsv
 Data/MovieSummaries/name.clusters.txt
