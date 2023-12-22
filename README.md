@@ -106,4 +106,5 @@ This project was made possible thanks to the large efforts and commitments from 
   - Preprocessing the dataset
   - Analyze the movie genres impact
   - Work on the correlation coefficient analysis
+  - Work on the ethnic diverstity impact 
   - Wrote the `Conclusion` and help with the `Correlation analysis`
