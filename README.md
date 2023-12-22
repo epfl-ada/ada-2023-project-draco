@@ -90,6 +90,7 @@ This project was made possible thanks to the large efforts and commitments from 
   - Work on the Success Score.
   - Feasibility analysis.
   - Implementation of the Machine Learning algorithm.
+  - Webpage Design.
   - Wrote the `Success Score and Machine Learning` page. 
 - Diana:
 - Romain: 
