@@ -93,6 +93,11 @@ This project was made possible thanks to the large efforts and commitments from 
   - Webpage Design.
   - Wrote the `Success Score and Machine Learning` page. 
 - Diana:
+  - Preprocessing the dataset
+  - Work on the correlation coefficient analysis
+  - Developement of diversity scores
+  - Work on the ethnic diversity impact 
+  - Wrote the `Correlation analysis` (I'm sorry I added this late 23.12.2024 -Diana)
 - Romain: 
   - Mapping of ethnicities to ethnic groups
   - Preprocessing of the dataset
