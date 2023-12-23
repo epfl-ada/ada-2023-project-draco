@@ -97,7 +97,7 @@ This project was made possible thanks to the large efforts and commitments from 
   - Work on the correlation coefficient analysis
   - Developement of diversity scores
   - Work on the ethnic diversity impact 
-  - Wrote the `Correlation analysis` (I'm sorry I added this late 23.12.2024 -Diana)
+  - Wrote the `Correlation analysis` (I'm sorry I added this late, I didn't push 23.12.2023 -Diana)
 - Romain: 
   - Mapping of ethnicities to ethnic groups
   - Preprocessing of the dataset
